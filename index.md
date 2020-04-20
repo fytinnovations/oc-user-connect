@@ -24,8 +24,11 @@ footer: Copyright © 2018-present Fytinnovations
 
 - PHP 7.3+
 - October Build 464+
+- Git, of course
 
 ## Links
 
-- [GitHub Documentation](https://github.com/fytinnovations/oc-careers) for posting issues and questions
+- [GitHub Documentation](https://github.com/fytinnovations/oc-user-connect)
+- [Bugs and Feature request](https://github.com/fytinnovations/oc-user-connect-plugin/issues)
+- [Source Code](https://github.com/fytinnovations/oc-user-connect-plugin)
 - [October Marketplace](https://octobercms.com/plugin/fytinnovations-careers)
