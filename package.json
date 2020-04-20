@@ -1,0 +1,16 @@
+{
+  "name": "oc-user-connect",
+  "version": "1.0.0",
+  "description": "Documentation for OC-User",
+  "main": "index.js",
+  "repository": "https://github.com/fytinnovations/oc-user-connect.git",
+  "author": "fytinnovations",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.4.0"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev",
+    "docs:build": "vuepress build"
+  }
+}
