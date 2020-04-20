@@ -1,7 +1,7 @@
 {
   "name": "oc-user-connect",
   "version": "1.0.0",
-  "description": "Documentation for OC-User",
+  "description": "Documentation for OC-User-Connect",
   "main": "index.js",
   "repository": "https://github.com/fytinnovations/oc-user-connect.git",
   "author": "fytinnovations",

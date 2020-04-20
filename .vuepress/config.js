@@ -18,8 +18,7 @@ module.exports = {
         {
           title: "Components",
           children: [
-              "/components/joblist",
-              "/components/jobdetails",
+              "/components/subscriptionForm.md" 
           ]
         }
       ],
