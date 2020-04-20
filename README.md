@@ -1,8 +1,8 @@
-# User-Connect
+# User Connect
 
 ## OctoberCMS Plugin to Manage Subcriptions
 
-This repository holds raw documentation and issues for the the user-connect plugin.
+This repository holds raw documentation and issues for the the user connect plugin.
 
 For documentation please visit [User-Connect official documentation](https://oc-user-connect.fytinnovations.com)
 

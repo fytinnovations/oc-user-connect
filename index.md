@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: Careers
-heroImage: /assets/img/userconnect.svg
+heroText: User Connect
+heroImage: /assets/img/UserConnectBanner.png
 actionText: Get Started →
 actionLink: /getting-started/installation
 features:
@@ -14,9 +14,9 @@ features:
 footer: Copyright © 2018-present Fytinnovations
 ---
 
-::: tip OFFER
+::: tip Offer You Don't Wanna Miss !
 
- :timer_clock: Hurry Up !!! :tada: :confetti_ball: Use coupon code `FIRST5` for Mega Discount for first 5 users only. [Install Now](https://octobercms.com/plugin/fytinnovations-careers).  :tada:
+ :timer_clock: Hurry Up !!! :tada: :confetti_ball: Use coupon code `FIRST5` for Mega Discount on Careers plugin for OcterberCMS, Offer Valid for first 5 users only. [Install Now](https://octobercms.com/plugin/fytinnovations-careers).  :tada:
 
 :::
 
