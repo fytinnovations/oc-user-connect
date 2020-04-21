@@ -7,7 +7,7 @@ actionLink: /getting-started/installation
 features:
 - title: Cater Verified Users Only!
   details: Enabling "verify via email" toggle in the settings page allows you to filter spam users and only serve the verified ones.
-- title: Effeciently Manage Outgoing Traffic
+- title: Efficiently Manae Outgoing Traffic
   details: Websites containing more than one subscription segments can create categories for each segment using the plugin. Visitors to the website can only subscribe to segments which they are interested in.
 - title: Useful Graphs and Charts
   details: The subscription dashboard of user connect plugin provides a bird eye view of your current subscription base. The subscription graphs gives a visualization of the number of users subscribing each day.This graph can be helpful to monitor your current performance and also predict your future trends.
@@ -22,7 +22,7 @@ footer: Copyright © 2018-present Fytinnovations
 
 ## Requirements
 
-- PHP 7.3+
+- PHP 7.4+
 - October Build 464+
 - Git, of course
 
