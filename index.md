@@ -5,12 +5,12 @@ heroImage: /assets/img/UserConnectBanner.png
 actionText: Get Started →
 actionLink: /getting-started/installation
 features:
-- title: Easy Setup with no overhead configurations
-  details: If you want to build your own careers page in no time you are the right place.One click setup of your own careers page.
-- title: Add Dynamics to your Job post
-  details: Easily add skills required, Department, No of positions open  and job description to a job post.Create categories such as full time, part time, remote etc for your job post.
-- title: Total Control with Handy Notifications
-  details: It  provides the admin with an Application dashboard to sort and view all the applications.It also allows you to turn on email notifcations for an application recieved, for as many email addresses you wish.
+- title: Cater Verified Users Only!
+  details: Enabling "verify via email" toggle in the settings page allows you to filter spam users and only serve the verified ones.
+- title: Effeciently Manage Outgoing Traffic
+  details: Websites containing more than one subscription segments can create categories for each segment using the plugin. Visitors to the website can only subscribe to segments which they are interested in.
+- title: Useful Graphs and Charts
+  details: The subscription dashboard of user connect plugin provides a bird eye view of your current subscription base. The subscription graphs gives a visualization of the number of users subscribing each day.This grpah can be helpful to monitor your current performance and also predict your future trends.
 footer: Copyright © 2018-present Fytinnovations
 ---
 
