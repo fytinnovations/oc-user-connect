@@ -14,7 +14,7 @@ features:
 footer: Copyright © 2018-present Fytinnovations
 ---
 
-::: Careers Plugin on SALE!
+::: tip Careers Plugin on SALE!
 
  :timer_clock: Hurry Up !!! :tada: :confetti_ball: Use coupon code `FIRST5` for Mega Discount on Careers plugin for OcterberCMS, Offer Valid for first 5 users only. [Install Now](https://octobercms.com/plugin/fytinnovations-careers).  :tada:
 
