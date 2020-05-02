@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: User Connect
+heroText: User Connect - Plugin for OctoberCMS
 heroImage: /assets/img/UserConnectBanner.png
 actionText: Get Started →
 actionLink: /getting-started/installation
@@ -10,7 +10,7 @@ features:
 - title: Efficiently Manage Outgoing Traffic
   details: Websites containing more than one subscription segments can create categories for each segment using the plugin. Visitors to the website can only subscribe to segments which they are interested in.
 - title: Useful Graphs and Charts
-  details: The subscription dashboard of user connect plugin provides a bird eye view of your current subscription base. The subscription graphs gives a visualization of the number of users subscribing each day.This graph can be helpful to monitor your current performance and also predict your future trends.
+  details: The subscription dashboard of the user connect plugin provides a birds-eye view of your current subscription base. The subscription graphs provides a visualization of the number of users subscribing each day. This graph can be helpful to monitor your current performance and also predict your future trends.
 footer: Copyright © 2018-present Fytinnovations
 ---
 
