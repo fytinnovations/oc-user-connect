@@ -1,7 +1,7 @@
 module.exports = {
     base: "/",
     title: "User Connect - Plugin for OctoberCMS",
-    description: "Open Source Plugin to Manage Subcriptions on your website",
+    description: "Open Source Plugin to Manage Subscriptions on your website",
     head: [
       ['link', { rel: 'icon', href: '/assets/img/userconnect.svg' }]
     ],
