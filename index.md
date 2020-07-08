@@ -20,6 +20,10 @@ footer: Copyright © 2018-present Fytinnovations
 
 :::
 
+## About
+
+The user-connect helps you manage your email subscription list. You can now easily add a subscription segment to your octoberCMS website.
+
 ## Requirements
 
 - PHP 7.4+
